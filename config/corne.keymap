@@ -44,7 +44,7 @@
                 compatible = "zmk,keymap";
 
                 default_layer {
-                        display-name = "Default Layer"
+                        display-name = "Default Layer";
                         bindings = <
 // ╭───────────┬──────────────┬──────────────┬──────────────┬──────────────┬────╮╭──────────┬──────────────┬──────────────┬──────────────┬──────────────┬────────╮
 // │ TAB       │ B            │ Y            │ U            │ O            │ '  ││ ;        │ L            │ D            │ W            │ V            │ /      │
